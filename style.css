@@ -1,0 +1,26 @@
+.gray-color {
+  background-color: rgb(39, 39, 39);
+}
+.container {
+  background-image: url(./img/istockphoto-1249040981-170667a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cityname {
+  font-size: 2rem;
+}
+.temp {
+  font-size: 3rem;
+  text-shadow: rgba(0, 0, 0, 0.2) 2px 2px 10px;
+}
+
+.mb {
+  margin-bottom: 0;
+}
+
+.font {
+  font-family: "Maria", sans-serif;
+}
+.form-control {
+  border-radius: 17px 2px;
+}
